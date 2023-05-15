@@ -1,5 +1,5 @@
 # rev90~
-Sintetizador granular estocástico, desarrollado en [Pure Data](https://github.com/pure-data/pure-data).  
+Reverb simple, con delays recirculantes, freeze y filtros, desarrollada [Pure Data](https://github.com/pure-data/pure-data).  
 
 ## instalación
 Descargar el zip y extraer la carpeta (o clonar el repositorio) dentro de una ruta de búsqueda de pure data. Ya se puede iniciar desde cualquier parche creando el objeto `[pd-rev90/rev90~]`.  
